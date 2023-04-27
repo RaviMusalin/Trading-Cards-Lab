@@ -2,11 +2,11 @@
 
 function Homepage() {
   return (
-    <div>
+      <div>
         <p>Welcome to our page!</p>
         <p><a href="/cards">Click here to go to our cards page</a></p>
-        <img src="/static/img/balloonicorn.jpg"></img>
-    </div>
+        <img src="/static/img/balloonicorn.jpg"></img>      
+      </div>
     );
 }
 
